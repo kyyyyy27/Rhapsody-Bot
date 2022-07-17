@@ -36,7 +36,6 @@ const store = Store.bind(sock)
 
 console.log(bgcolor(color('Starting','green','white'))) 
 await sleep(1000) 
-console.clear() 
 console.log(color(' ====================================================','red')) 
 console.log(color("│ > Name Author : Deff")) 
 console.log(color("│ > Version : V4 ")) 
