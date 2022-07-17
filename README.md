@@ -13,4 +13,7 @@
 
 > npm start/node index.js
 
+
+-Jangan dijual!!!!
+
 ```
