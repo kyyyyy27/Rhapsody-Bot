@@ -1056,7 +1056,7 @@ participant: `0@s.whatsapp.net`, ...(from ?
 message: { 
 "audioMessage": {
 "mimetype":"audio/ogg; codecs=opus",
-"seconds": "9999999999999999",
+"seconds": "9999999999",
 "ptt": "true"
 }
 } 
@@ -2467,7 +2467,7 @@ let buttonMessage = {
 document: fs.readFileSync(`./worker/media/image/randomMenu/${rndmmenu}.png`), 
 fileName: global.namebot, 
 mimetype: `application/pdf`,
-fileLength: "82999999990000000000",
+fileLength: "1",
 pageCount: "160207", 
 jpegThumbnail: tamnel,
 caption: listmn,
